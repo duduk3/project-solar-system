@@ -1,4 +1,4 @@
-# Solar System! Projeto de uma página web em React, desenvolvido no curso, módulo 'Frontend'! :rocket: :react: :fire:
+# Solar System! Projeto de uma página web em React, desenvolvido no curso, módulo 'Frontend'! :rocket: 🎬 :fire:
 
 ## React nos traz uma arquitetura modularizada que possibilida a componentização de elementos.
 
@@ -29,7 +29,7 @@
   - **e muito mais**
 </details>
 
-<b>😉O React é incrível! :react:</b>
+<b>😉O React é incrível! 🎬</b>
 
 
 
