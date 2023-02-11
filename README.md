@@ -15,7 +15,8 @@
   - **3** startando o projeto para acompanhar a construção na tela
   - **4** usando os dados armazenados em formato json
   - **5** criando os componentes renderizados dinamicamente
-  - **obs:** ultilizei o bootstrap e css para estilizar a página.
+  - **6** ultilizando o bootstrap e css para estilizar a página.
+  - **obs:** obs: se quiser testar o projeto você precisará baixál-lo, instalar as dependências(npm install) e depois poderá rodar (npm start ) para ver no navegador.
 </details>
 
 <details>
